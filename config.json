@@ -1,7 +1,7 @@
 {
-  "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
-  "site_title": "Next.js Netlify Blog",
-  "site_description": "Next.js blog template for Netlify",
+  "base_url": "https://nextjs-hmcs-cc.netlify.app/",
+  "site_title": "Next js Blog Test",
+  "site_description": "Next.js blog test",
   "site_keywords": [
     {
       "keyword": "Next.js"
@@ -12,7 +12,7 @@
     {
       "keyword": "React"
     },
-    "Test"
+    "Testing"
   ],
   "posts_per_page": 5,
   "twitter_account": "@my-account",
