@@ -111,3 +111,4 @@ as following instructions:
 ## License
 
 MIT
+# nextjs-hcms-netlify
